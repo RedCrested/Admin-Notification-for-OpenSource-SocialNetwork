@@ -1,5 +1,4 @@
 # Admin Notification for OpenSource-SocialNetwork
-
 Developed to work in [OpenSource-SocialNetwork](http://www.opensource-socialnetwork.org) (OSSN), this component sends a notification to the selected admin when a new user registration occurs. Also, it's possible to set up one or multiple email addresses and then, a message will be fired to those addresses.
 
 ## Features
@@ -26,12 +25,13 @@ E-mail received<br/>
 </div>
 
 ## Requirements
-
 The unique requirement for this component work is the OpenSource-SocialNetwork system in version 6.1 or above.
 
 ## Limitations
-
 The component was tested in OSSN 6.1 and 6.4, free and premium versions. Maybe some adjustments are required in older versions. In this case, **use at your own risk**.
+
+## How to buy
+I am selling this component for US$30.00 through the Buy me a coffee website. To purchase, visit https://www.buymeacoffee.com/redcrested/e/104192
 
 ## Version
 
